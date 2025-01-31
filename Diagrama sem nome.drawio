@@ -17,7 +17,7 @@
           <mxGeometry x="253" y="450" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2" value="Architecture: SAP PIX Bradesco" style="fillColor=#4DA1F5;strokeColor=none;shadow=1;gradientColor=none;fontSize=14;align=left;spacingLeft=50;fontColor=#ffffff;html=1;" parent="1" vertex="1">
-          <mxGeometry x="172" y="50" width="840" height="40" as="geometry" />
+          <mxGeometry x="170" y="50" width="842" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a7w3wlSmF8MwgHqe7ClP-748" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bN5QILnUEAshqW3xWmmT-750" target="a7w3wlSmF8MwgHqe7ClP-726">
           <mxGeometry relative="1" as="geometry" />
@@ -123,8 +123,8 @@
         <mxCell id="a7w3wlSmF8MwgHqe7ClP-772" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="a7w3wlSmF8MwgHqe7ClP-745" target="705">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a7w3wlSmF8MwgHqe7ClP-745" value="&lt;b&gt;Processamento da ordem e aguado de pagamento&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;para disparo de notificação webhook.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="158" y="370" width="310" height="40" as="geometry" />
+        <mxCell id="a7w3wlSmF8MwgHqe7ClP-745" value="&lt;b&gt;Processamento da ordem e aguardo de pagamento&lt;/b&gt;&lt;div&gt;&lt;b&gt;&amp;nbsp;para disparo de notificação webhook.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="153" y="370" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="a7w3wlSmF8MwgHqe7ClP-746" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="a7w3wlSmF8MwgHqe7ClP-738" target="a7w3wlSmF8MwgHqe7ClP-745">
           <mxGeometry relative="1" as="geometry">
