@@ -51,7 +51,7 @@
         <mxCell id="a7w3wlSmF8MwgHqe7ClP-729" value="HTTPS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="543" y="435" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a7w3wlSmF8MwgHqe7ClP-730" value="&lt;b&gt;Certificado .pfx gerado pelo SSO&lt;/b&gt;&lt;div&gt;&lt;b&gt;ou&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Certificado gerado pelo BTP, formao .crt e .key&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="a7w3wlSmF8MwgHqe7ClP-730" value="&lt;b&gt;Certificado .pfx gerado pelo SSO&lt;/b&gt;&lt;div&gt;&lt;b&gt;ou&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Certificado gerado pelo BTP, formato .crt e .key&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="333" y="490" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a7w3wlSmF8MwgHqe7ClP-731" value="Flow Cobrança Imediata" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;strokeColor=none;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" vertex="1" parent="1">
